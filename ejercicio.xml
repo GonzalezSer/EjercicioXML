@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jugadores>
+    <jugador numeroJugador="001">
+        <nombre>Pedri</nombre>
+        <equipo>FC Barcelona</equipo>
+        <entrenador>Xavi Hernandez</entrenador>
+    </jugador>
+    <jugador numeroJugador="002">
+        <nombre>Gerard Moreno</nombre>
+        <equipo>Villareal</equipo>
+        <entrenador>Unay Emery</entrenador>
+    </jugador>
+    <jugador numeroJugador="003">
+        <nombre>Koke</nombre>
+        <equipo>Atletico de Madrid</equipo>
+        <entrenador>Simeone</entrenador>
+    </jugador>
+    <jugador numeroJugador="004">
+        <nombre>Ocampos</nombre>
+        <equipo>Sevilla</equipo>
+        <entrenador>Sampaoli</entrenador>
+    </jugador>
+    <jugador numeroJugador="005">
+        <nombre>Courtois</nombre>
+        <equipo>Real de Madrid</equipo>
+        <entrenador>Carlo Ancelotti</entrenador>
+    </jugador>
+    
+</jugadores>
